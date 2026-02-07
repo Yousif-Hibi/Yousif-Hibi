@@ -24,7 +24,7 @@ I am currently pushing my boundaries in three key areas:
 ---
 
 ### 📊 GitHub Insights
-![Yousif's Stats](https://github-readme-stats.vercel.app/api?username=Yousif-Hibi&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yousif-Hibi&theme=dracula)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousif-Hibi&layout=compact&theme=dracula&hide_border=true)
 
 ---
