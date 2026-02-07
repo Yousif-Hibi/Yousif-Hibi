@@ -25,6 +25,7 @@ I am currently pushing my boundaries in three key areas:
 
 ### 📊 My Coding Metrics
 ![Yousif's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yousif-Hibi&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yousif-Hibi&layout=compact&theme=dracula&hide_border=true)
 ---
 
 ### 🔥 Featured Projects
