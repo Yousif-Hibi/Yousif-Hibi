@@ -24,9 +24,7 @@ I am currently pushing my boundaries in three key areas:
 ---
 
 ### 📊 My Coding Metrics
-![Commits](https://img.shields.io/github/commit-activity/m/Yousif-Hibi?style=for-the-badge&color=6272a4)
-![Repo Count](https://img.shields.io/github/repos/count/Yousif-Hibi?style=for-the-badge&color=50fa7b)
-![Stars](https://img.shields.io/github/stars/Yousif-Hibi?style=for-the-badge&color=f1fa8c)
+![Yousif's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yousif-Hibi&show_icons=true&theme=dracula&hide_border=true)
 ---
 
 ### 🔥 Featured Projects
