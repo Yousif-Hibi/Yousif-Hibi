@@ -23,10 +23,10 @@ I am currently pushing my boundaries in three key areas:
 
 ---
 
-### 📊 GitHub Insights
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yousif-Hibi&theme=dracula)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousif-Hibi&layout=compact&theme=dracula&hide_border=true)
-
+### 📊 My Coding Metrics
+![Commits](https://img.shields.io/github/commit-activity/m/Yousif-Hibi?style=for-the-badge&color=6272a4)
+![Repo Count](https://img.shields.io/github/repos/count/Yousif-Hibi?style=for-the-badge&color=50fa7b)
+![Stars](https://img.shields.io/github/stars/Yousif-Hibi?style=for-the-badge&color=f1fa8c)
 ---
 
 ### 🔥 Featured Projects
